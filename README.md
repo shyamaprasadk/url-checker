@@ -1,4 +1,4 @@
-# 🌐 Termux URL Checker
+# 🌐 CLI URL Checker
 
 A simple tool to check if websites are UP or DOWN, made for Termux.
 
